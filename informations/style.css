@@ -37,6 +37,11 @@ body {
   margin: 0 auto;
 }
 
+.center_head {
+  display: flex;
+  margin: 0 auto;
+}
+
 .container {
   overflow-y: scroll;
   width: 100%;
@@ -88,7 +93,7 @@ p {
 
 .nav_link {
   display: inline-block;
-  position: flex;
+  position: relative;
   padding: 10px 20px;
   color: white;
   text-decoration: none;

@@ -37,6 +37,11 @@ body {
   margin: 0 auto;
 }
 
+.center_head {
+  display: flex;
+  margin: 0 auto;
+}
+
 .container {
   overflow-y: scroll;
   width: 100%;
